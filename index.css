@@ -62,3 +62,51 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+.two {
+  background-color: #EEE4DA;
+  color: #776E65;
+  font-size: 40px;
+}
+
+.four {
+  background-color: #EDE0C7;
+  color: #776E65;
+  font-size: 40px;
+}
+
+.eight {
+  background-color: #F2B179;
+  color: #F9F6F2;
+  font-size: 40px;
+}
+
+.sixteen {
+  background-color: #F39563;
+  color: #F9F6F2;
+  font-size: 40px;
+}
+
+.thirtytwo {
+  background-color: #F07B5E;
+  color: #F9F6F2;
+  font-size: 40px;
+}
+
+.sixtyfour {
+  background-color: #EE5C39;
+  color: #F9F6F2;
+  font-size: 40px;
+}
+
+.onetwentyeight {
+  background-color: #EDCF72;
+  color: #F9F6F2;
+  font-size: 40px;
+}
+
+.higher {
+  background-color: black;
+  color: #F9F6F2;
+  font-size: 40px;
+}
